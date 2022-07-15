@@ -94,7 +94,7 @@ class _HomePageState extends State<HomePage> {
             ),
             SizedBox(height: 10),
             Text(
-              'Not a member?',
+              'Not a',
               style: TextStyle(
                 fontWeight: FontWeight.bold,
               ),
